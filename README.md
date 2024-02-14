@@ -1,1 +1,4 @@
 # Predcitive-modeling-with-linear-regression_codealpha3
+I taken the data set from kaggle as house.csv it contains 
+bedroom_count	,net_sqm,center_distance,metro_distance,floor,age,price
+In this comprehensive house price prediction analysis, I began by exploring the dataset, delving into its structure, and extracting key statistics to comprehend the features. Employing Seaborn and Matplotlib, I visualized intricate relationships between house prices and various variables, gaining valuable insights from pair plots and correlation matrices. Subsequently, I built a robust Linear Regression model, meticulously splitting the data, training the model, and making accurate predictions. Rigorous evaluation followed, leveraging metrics like Mean Squared Error and Residual Plots. Ensuring model robustness, cross-validation was performed with a negative mean squared error metric.
